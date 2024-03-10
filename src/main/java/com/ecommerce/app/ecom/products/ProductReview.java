@@ -1,4 +1,4 @@
-package com.ecommerce.app.ecom;
+package com.ecommerce.app.ecom.products;
 
 public class ProductReview {
   private int points;

@@ -1,4 +1,4 @@
-package com.ecommerce.app.ecom;
+package com.ecommerce.app.ecom.products;
 
 import java.util.List;
 
